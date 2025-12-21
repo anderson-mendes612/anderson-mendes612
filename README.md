@@ -14,7 +14,7 @@ Estou constantemente estudando e evoluindo meus conhecimentos em desenvolvimento
 
 <p align="left">
   <a href="https://github.com/anderson-mendes612">
-    <img src="https://img.shields.io/badge/GitHub-herbertcarnaubadesouza-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/anderson.mendesss">
     <img src="https://img.shields.io/badge/Instagram-@anderson.mendesss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
