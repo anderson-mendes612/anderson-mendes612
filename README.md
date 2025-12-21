@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Anderson Mendes
 
-🚀 **Junior E | HTML & CSS**
+🚀 **Junior | HTML & CSS**
 🇧🇷 Brazil
 
 Estou iniciando minha jornada em programação web, com foco em HTML e CSS.
@@ -13,7 +13,7 @@ Estou constantemente estudando e evoluindo meus conhecimentos em desenvolvimento
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/anderson-mendes612">
     <img src="https://img.shields.io/badge/GitHub-anderson-mendes612-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/anderson.mendesss">
